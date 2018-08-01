@@ -110,6 +110,8 @@ body {
 }
 .footer p a {
 	color:blue;
+	font-family: sans-serif;
+	background-color: yellow;
 }
 
 #socialIcons {
